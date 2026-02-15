@@ -1,2 +1,2 @@
-# chuangma
+# chuanma
 川麻胡牌分析器，普通版+流血红中版
